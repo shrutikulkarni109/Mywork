@@ -14,5 +14,6 @@ public class Addition
 		c=additionHelper.sum(a,b);
 
 		System.out.println(c);
+		System.out.println("Added");
 }
 }
